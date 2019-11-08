@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938458968529",
+    "firebase_url": "https://schoolreservationsapp.firebaseio.com",
+    "project_id": "schoolreservationsapp",
+    "storage_bucket": "schoolreservationsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938458968529:android:090362b4c0220aa05bb0f0",
+        "android_client_info": {
+          "package_name": "com.example.schoolreservationsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938458968529-ej6b180m7tt7efu120f2e4c24duvnmi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schoolreservationsapp",
+            "certificate_hash": "ba1d162e934e3d1f0917591aceb636d863593fb0"
+          }
+        },
+        {
+          "client_id": "938458968529-6qaq3m9pcachf9cetc78bv8ihmk1nfe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3yK1qid3jkrzErl7c34eqC_7CjsHp_wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938458968529-6qaq3m9pcachf9cetc78bv8ihmk1nfe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
