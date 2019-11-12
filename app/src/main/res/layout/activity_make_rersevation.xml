@@ -33,7 +33,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="fromTimePickButtonClicked"
-            android:text="Date" />
+            android:text="From Time" />
 
         <Button
             android:id="@+id/toTimeButton"
@@ -41,7 +41,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="toTimePickButtonClicked"
-            android:text="Time" />
+            android:text="To Time" />
 
 
     </LinearLayout>

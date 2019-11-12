@@ -5,6 +5,7 @@ import com.google.gson.annotations.SerializedName;
 import java.io.Serializable;
 
 public class Reservations implements Serializable {
+    @SerializedName("id")
     private int id;
     @SerializedName("fromTime")
     private int fromTime;
@@ -74,6 +75,11 @@ public class Reservations implements Serializable {
         this.roomId = roomId;
     }
 
+    @Override
+    public String toString() {
+
+        return "from time: " + fromTime + " to time: " + toTime + " RoomId: " + roomId + " Puspose: " + purpose;
+    }
 
 }
 
